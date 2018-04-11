@@ -1,0 +1,2 @@
+G:\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+G:\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.ResolveComReference.cache

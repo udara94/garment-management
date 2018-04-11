@@ -1,0 +1,395 @@
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\oshan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\oshan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\oshan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\oshan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.depriciation.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.parts.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.service.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.btn_demo.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Repaire.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cost.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\stdole.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crystal.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\stdole.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cost.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.depriciation.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.btn_demo.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crystal.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.parts.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Repaire.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.service.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.customer.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Orders.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddCusPoint.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.paypic.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.payHistory.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.creportView.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddRetailCus.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSales.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSalesman.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSalesRate.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Forecasting.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ReportsDisplay.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SalesReturnHis.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUser.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginDetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Notification.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BalanceView.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.InvoiceView.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2_1.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2_2.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ShowMessages.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._2_Sheetcs.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Availability.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crdriver.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ddetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.runningChart.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.transportc.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateAvailability.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateDriver.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateVehicle.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.vdetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addProd.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stock_addRaw.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addSup.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addSupPay.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_damagePro.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_damageRaw.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updatePro.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateRol.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateRow.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateSup.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\6\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_Reports.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\stdole.dll
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUser.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginDetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Notification.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BalanceView.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.InvoiceView.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2_1.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2_2.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ShowMessages.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._2_Sheetcs.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.customer.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Orders.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddCusPoint.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.paypic.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.payHistory.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.creportView.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddRetailCus.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSales.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSalesman.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSalesRate.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Availability.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cost.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crdriver.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ddetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.depriciation.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Forecasting.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.btn_demo.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crystal.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.parts.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Repaire.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ReportsDisplay.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.runningChart.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SalesReturnHis.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.service.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addProd.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stock_addRaw.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addSup.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addSupPay.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_damagePro.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_damageRaw.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_Reports.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updatePro.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateRol.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateRow.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateSup.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.transportc.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateAvailability.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateDriver.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateVehicle.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.vdetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.addleave.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.attendence.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.caclulate_salary.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.empadd.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.employees.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.view_employee.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.reportemp.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.EmpCris.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AdRejectedSelling.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cal_productDetails.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.p_details.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.p_process.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.rejected.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.rejectedSales.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.rejected_selling.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.order_details.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.report_1.resources
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\Udara Indrajith\Documents\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\stdole.dll
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUser.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoginDetails.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Notification.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BalanceView.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.InvoiceView.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2_1.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2_2.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ShowMessages.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._2_Sheetcs.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.customer.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Orders.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddCusPoint.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.paypic.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.payHistory.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.creportView.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddRetailCus.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.addleave.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSales.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSalesman.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddSalesRate.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AdRejectedSelling.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.attendence.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Availability.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.caclulate_salary.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cal_productDetails.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cost.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crdriver.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ddetails.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.depriciation.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.empadd.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.EmpCris.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.employees.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Forecasting.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.btn_demo.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.crystal.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.order_details.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.parts.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.p_details.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.p_process.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.rejected.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.rejectedSales.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.rejected_selling.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Repaire.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.reportemp.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ReportsDisplay.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.report_1.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.runningChart.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SalesReturnHis.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.service.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addProd.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stock_addRaw.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addSup.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_addSupPay.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_damagePro.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_damageRaw.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_Reports.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updatePro.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateRol.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateRow.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks_updateSup.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stocks.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.transportc.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateAvailability.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateDriver.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.updateVehicle.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.vdetails.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.view_employee.resources
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\SLIIT\2nd year\2nd semester\ITP\Project\backup\7\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
